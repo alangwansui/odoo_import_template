@@ -1,0 +1,3 @@
+id,type,volume,company_id/id,lst_price,categ_id/id,default_code,weight_net,available_in_pos,sale_ok,name,standard_price,cost_method,active,list_price,weight,uom_id/id,description,description_purchase,uos_id/id
+point_of_sale.evian_2l,consu,0,base.main_company,1.26,product.product_category_all,,0,True,True,2L Evian,0,standard,True,1.26,0,product.product_uom_unit,,,
+product.001,consu,1,base.main_company,2.5,product.product_category_all,abc,0,True,True,ABC,12,standard,True,2.54,12,product.product_uom_unit,good,good,

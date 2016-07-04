@@ -1,0 +1,4 @@
+id,name,password,active,login
+base.user_root,Administrator,,True,admin
+base.user_demo,Demo User,,True,demo
+base.user_demo2,Demo User2,,True,demo2

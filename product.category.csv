@@ -1,0 +1,3 @@
+id,name,parent_id/id,sequence
+product.test1,Teest,,
+product.test2,Test2,product.test1,
